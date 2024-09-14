@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+
+* {font-family: "Bellefair", serif; text-align: center; overflow-wrap: break-word; font-weight: 400; font-size: 1.5rem;}
+html {padding: 0 0 0 0;}
+body {overflow-x: hidden; overflow-x: hidden; padding: 0 0 0 0; background-color: #FCFCFC; color: #1D1A05;} 
+
+div {padding: 0; margin: 0;}
+
+.nav-bar {display: flex; text-align: end;}
+.nav-bar .nav-bar-item {}
